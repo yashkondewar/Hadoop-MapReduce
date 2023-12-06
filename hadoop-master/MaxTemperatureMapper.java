@@ -1,5 +1,5 @@
-// cc MaxTemperatureMapper Mapper for maximum temperature example
-// vv MaxTemperatureMapper
+// MaxTemperatureMapper Mapper for maximum temperature example
+// MaxTemperatureMapper
 import java.io.IOException;
 
 import org.apache.hadoop.io.IntWritable;
@@ -30,4 +30,4 @@ public class MaxTemperatureMapper
     }
   }
 }
-// ^^ MaxTemperatureMapper
+
